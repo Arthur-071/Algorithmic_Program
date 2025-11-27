@@ -1,2 +1,2 @@
 # Competitive Programming
-solutions for Data Structure & Algorithms problems
+Solutions for Data Structure & Algorithms problems
